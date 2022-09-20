@@ -1,4 +1,4 @@
-import requests , urllib.request , os
+import requests  , os
 
 def clearsc():
     "clear terminal screen"
