@@ -1,11 +1,7 @@
 <h2> <p align="center" > <i> Scanner with python  </i> </p> </h2>
 <img src = "https://github.com/lackofleak/scanner/blob/main/image.png"  />
+----------------------------------
 
-<p align="center" >
-  <img src="https://svgshare.com/i/Zhy.svg" />
-  <img src="https://svgshare.com/i/ZjP.svg" />
-  <img src="https://svgshare.com/i/ZhY.svg" />
-<p/>
 <p align="center" >
   <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg" />
 </p>
